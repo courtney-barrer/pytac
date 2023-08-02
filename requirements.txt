@@ -1,0 +1,8 @@
+numpy==1.24.3
+numpydoc==1.5.0
+pandas==2.0.1
+pandocfilters==1.5.0
+python-dateutil==2.8.2
+pytoolconfig==1.2.5
+plotly==5.15.0
+streamlit==1.22.0
